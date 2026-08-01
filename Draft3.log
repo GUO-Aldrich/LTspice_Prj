@@ -1,0 +1,17 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\Guo_JT\Documents\LTspice\Draft3.net
+Start Time: Thu Jun 11 14:34:24 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.148 seconds.
+
+Files loaded:
+C:\Users\Guo_JT\Documents\LTspice\Draft3.net
+C:\Users\Guo_JT\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\Guo_JT\AppData\Local\LTspice\lib\cmp\standard.bjt
+C:\Users\Guo_JT\AppData\Local\LTspice\lib\cmp\standard.mos
+

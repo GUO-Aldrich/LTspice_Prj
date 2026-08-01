@@ -1,0 +1,6 @@
+*.raw
+*.bak
+*.bak.*
+*~
+autosave/
+backup/
