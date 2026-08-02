@@ -1,6 +1,6 @@
 LTspice 26.0.2 for Windows
-Circuit: C:\Users\Guo_JT\Documents\LTspice\Draft6.net
-Start Time: Fri Jun 12 23:04:46 2026
+Circuit: C:\Users\Guo_JT\Desktop\LTspice_Prj\Draft6.net
+Start Time: Sun Aug  2 21:38:18 2026
 Options:reltol=3e-4 abstol=1e-9 vntol=1e-6 gmin=1e-12 cshunt=1e-12 numdgt=6
 solver = Normal
 Maximum thread count: 16
@@ -20,12 +20,17 @@ Direct Newton iteration failed to find operating point.
 Starting Gmin stepping
 Gmin stepping succeeded in finding the operating point.
 
+Warning: Simulation tolerance relaxed to achieve convergence from 1.6467485309304992e-03 to 1.6467485309305092e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.6467485309362301e-03 to 1.6467485309362400e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.6718284906285809e-03 to 1.6718284906285909e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.6843718971847152e-03 to 1.6843718971847252e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.7219934330752204e-03 to 1.7219934330752304e-03 seconds.
 
 Simulation stopped by user.
-Total elapsed time: 0.442 seconds.
+Total elapsed time: 24.759 seconds.
 
 Files loaded:
-C:\Users\Guo_JT\Documents\LTspice\Draft6.net
+C:\Users\Guo_JT\Desktop\LTspice_Prj\Draft6.net
 C:\Users\Guo_JT\AppData\Local\LTspice\lib\cmp\standard.dio
 C:\Users\Guo_JT\AppData\Local\LTspice\lib\cmp\standard.mos
 C:\Users\Guo_JT\Documents\LTspice\LM5116_TRANS.LIB
