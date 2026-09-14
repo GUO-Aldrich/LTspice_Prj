@@ -1,22 +1,20 @@
 LTspice 26.0.2 for Windows
-Circuit: C:\Users\Guo_JT\Documents\LTspice\Draft1.net
-Start Time: Thu Jun 11 18:59:18 2026
-Options:reltol=0.003 abstol=1e-10 vntol=1e-6 gmin=1e-10
+Circuit: C:\Users\Liyh1\Desktop\LTspice_Prj\DC-DC电路\Draft1.net
+Start Time: Mon Sep 14 19:08:21 2026
 solver = Normal
-Maximum thread count: 16
+Maximum thread count: 8
 tnom = 27
 temp = 27
 method = trap
-gmin = 1e-10
-abstol = 1e-10
-reltol = 0.003
-Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
 
 Simulation stopped by user.
-Total elapsed time: 49.141 seconds.
+Total elapsed time: 21.681 seconds.
 
 Files loaded:
-C:\Users\Guo_JT\Documents\LTspice\Draft1.net
-C:\Users\Guo_JT\AppData\Local\LTspice\lib\sub\AD8628.sub
-C:\Users\Guo_JT\AppData\Local\LTspice\lib\sub\LTC3543.sub
+C:\Users\Liyh1\Desktop\LTspice_Prj\DC-DC电路\Draft1.net
+C:\Users\Liyh1\AppData\Local\LTspice\lib\sub\LTC3543.sub
 
