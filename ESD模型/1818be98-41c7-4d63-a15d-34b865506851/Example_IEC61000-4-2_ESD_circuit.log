@@ -1,0 +1,14 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\Liyh1\Desktop\LTspice_Prj\ESD模型\1818be98-41c7-4d63-a15d-34b865506851\Example_IEC61000-4-2_ESD_circuit.net
+Start Time: Thu Sep 17 10:19:57 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 1.159 seconds.
+
+Files loaded:
+C:\Users\Liyh1\Desktop\LTspice_Prj\ESD模型\1818be98-41c7-4d63-a15d-34b865506851\Example_IEC61000-4-2_ESD_circuit.net
+
